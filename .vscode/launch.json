@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open anchorwithrelative.html",
+            "file": "c:\\Users\\myaka\\OneDrive\\Desktop\\python code major\\CB1354 - FRAUD DETECTION IN BANKING DATA BY MACHINE LEARNING TECHNIQUES\\DATASET\\10k coders\\anchorwithrelative.html"
+        }
+    ]
+}
